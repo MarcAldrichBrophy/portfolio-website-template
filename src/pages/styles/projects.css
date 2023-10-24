@@ -1,0 +1,19 @@
+
+#projectContainer {
+    position: absolute;
+    left: 50vw;
+    top: 20vh;
+    transform: translate(-50%);
+    text-align: center;
+    width: 100vw;
+    overflow: auto;
+    height: 70vh;
+}
+
+#projectContainer p {
+    position: relative;
+    text-align: left;
+    width: 50vw;
+    left: 50vw;
+    transform: translate(-50%);
+}

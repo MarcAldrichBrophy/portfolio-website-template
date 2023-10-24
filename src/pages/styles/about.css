@@ -1,0 +1,9 @@
+
+#aboutSection {
+    position: absolute;
+    left: 50vw;
+    top: 20vh;
+    transform: translate(-50%);
+    text-align: center;
+    width: 50vw;
+}
